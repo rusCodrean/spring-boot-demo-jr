@@ -20,7 +20,7 @@ public class Main {
         System.out.println(numberOfPerfectTrips(weirdCyclistTrips)); // should print 2
 
 //        weirdCyclistTrips.add(new CyclingActivity(7, -3)); // this code should throw an InvalidActivityDataException
-//        weirdCyclistTrips.add(new CyclingActivity.Builder().distance(35).time(5).build()); // implement a Builder for the Cycling Activity
+//        weirdCyclistTrips.add(new CyclingActivity.Builder().distance(35).time(5).build());
 
 //        printLongestDistanceForEachAverageSpeed(weirdCyclistTrips);
     }
